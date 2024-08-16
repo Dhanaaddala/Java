@@ -1,0 +1,9 @@
+public class StudentDetails { 
+public static void main(String args[]) { 
+System.out.println("\t\t\tStudent_Details");
+System.out.println("Name:Dhana\t\t\t\tRegNo:23K61A4701");
+System.out.println("FatherName:Ramarao\t\tAadharNo:231345164782"); 
+System.out.println("Occupation:Former\t\tDOB:17/09/2005");
+System.out.println("ParentMobile:9666324561\tNoofsubjectspassed:10 "); 
+}
+}
